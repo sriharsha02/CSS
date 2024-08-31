@@ -1,0 +1,41 @@
+/* Universal Selector */
+
+*{
+    font-family: monospace;
+    
+}
+
+/* ELement Selectors */
+
+body{
+    font-size: 20px;
+    
+}
+h1, h2{
+    color: blue;
+}
+
+p{
+    color: purple;
+}
+
+p{
+    color: red;
+}
+
+/* Class Selectors */
+
+.gray{
+    color: gray;
+}
+
+.highlight{
+    text-transform: uppercase;
+    background-color: gold;
+}
+
+/* ID selectors */
+
+#second{
+    font-style: italic;
+}
